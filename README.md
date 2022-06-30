@@ -1,6 +1,10 @@
 # Prediction of Animal Shelter Adoption Rates
 **OLS prediction and LASSO regression model comparison and presentation of data regressors through supervised learning to identify which variables influence high pet adoption rates**
 
+## Understanding the Purpose of Resarch
+###### 1. To Understand how does Ordinary Least Squares (OLS) interpret variables that contribute to high or low pet adoption rates.
+###### 2. To Understand how does Least Absolute Shrinkage and Selection Operator (LASSO) interpret variables that contribute to high or low pet adoption rates.
+
 ## Descriptive Variables
 * PetID - Unique hash ID of pet profile
 * AdoptionSpeed - This is the value to predict.
