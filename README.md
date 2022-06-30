@@ -1,5 +1,5 @@
 # Prediction of Animal Shelter Adoption Rates
-**OLS prediction and LASSO regression model comparison and presentation of data regressors through supervised learning to identify which variables influence high pet adoption rates**
+OLS prediction and LASSO regression model comparison and presentation of data regressors through supervised learning to identify which variables influence high pet adoption rates
 
 ## Purpose of Research
 ###### 1. To Understand how does Ordinary Least Squares (OLS) interpret variables that contribute to high or low pet adoption rates.
