@@ -1,7 +1,7 @@
 # Prediction of Animal Shelter Adoption Rates
 **OLS prediction and LASSO regression model comparison and presentation of data regressors through supervised learning to identify which variables influence high pet adoption rates**
 
-## Understanding the Purpose of Research
+## Purpose of Research
 ###### 1. To Understand how does Ordinary Least Squares (OLS) interpret variables that contribute to high or low pet adoption rates.
 ###### 2. To Understand how does Least Absolute Shrinkage and Selection Operator (LASSO) interpret variables that contribute to high or low pet adoption rates.
 ###### 3. To compare and understand the results between OLS and LASSO.
@@ -32,8 +32,6 @@
 * Health - Health Condition (1 = Healthy, 2 = Minor Injury, 3 = Serious Injury, 0 = Not Specified)
 * Quantity - Number of pets represented in profile
 * Fee - Adoption fee (0 = Free)
-
-
 * State - State - State location in Malaysia 
 * RescuerID - Unique hash ID of rescuer
 * VideoAmt - Total uploaded videos for this pet
@@ -41,3 +39,4 @@
 
 ## Model Used
 **AdoptionSpeed = β0 + β1(animaltype) + β2(age) + β3(breed1) + β4(breed2) + β5(gender) + β6(color1) + β7(color2) + β8(color3) + β9(maturitysize) + β10(furlength) + β11(vaccinated) + β12(dewormed) + β13(sterilized) + β14(health) + β15(quantity) + β16(fee) + β17(state) + β18(videoamt) + β19(photoamt) + μi**
+
