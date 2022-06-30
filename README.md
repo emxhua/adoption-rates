@@ -40,5 +40,4 @@
 * PhotoAmt - Total uploaded photos for this pet
 
 ## Model Used
-**AdoptionSpeed = β0 + β1(animaltype) + β2(age) + β3(breed1) + β4(breed2) + β5(gender) + β6(color1) + β7(color2) + β8(color3) + β9(maturitysize) + β10(furlength) + β11(vaccinated) + β12(dewormed) + β13(sterilized) + β14(health) + β15(quantity) + β16(fee) + β17(state) + β18(videoamt) + β19(photoamt) + μi![image](https://user-images.githubusercontent.com/54898156/176746172-db732b91-83c6-4228-b4a4-5722c2d77411.png)
-**
+**AdoptionSpeed = β0 + β1(animaltype) + β2(age) + β3(breed1) + β4(breed2) + β5(gender) + β6(color1) + β7(color2) + β8(color3) + β9(maturitysize) + β10(furlength) + β11(vaccinated) + β12(dewormed) + β13(sterilized) + β14(health) + β15(quantity) + β16(fee) + β17(state) + β18(videoamt) + β19(photoamt) + μi**
